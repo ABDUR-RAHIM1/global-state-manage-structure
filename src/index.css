@@ -1,0 +1,47 @@
+ .App{
+    width: 70%;
+    margin: 50px auto;
+ }
+ .calcWrap{
+   width: 100%;
+   margin: auto;
+ }
+ .frmInputs{
+   width: 100%;
+   padding: 15px;
+   background: linear-gradient(to right , yellow , orange);
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+ }
+ .frmInputs input{
+   width: 48%;
+   outline: 0;
+   padding: 5px;
+ }
+
+ .btnArea{
+   width: 50%;
+   margin:20px auto;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+ }
+ .btnArea button{
+   padding: 5px 15px;
+   outline: 0;
+   border: none;
+   font-size: 22px;
+   background-color: aquamarine;
+   font-weight: bolder;
+ }
+ .result{
+   margin-top: 30px;
+   background-color: aliceblue;
+   padding: 15px;
+ }
+
+
+ .history{
+   margin-top: 50px;
+ }
