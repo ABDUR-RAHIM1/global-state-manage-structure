@@ -1,0 +1,1 @@
+# global-state-manage-structure
